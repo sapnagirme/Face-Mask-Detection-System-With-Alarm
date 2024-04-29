@@ -5,5 +5,7 @@ This project implements a face mask detection system with an alarm. The system u
 
 ### Features
 Real-time face detection and mask detection.
+
 Audio- alarm triggering for faces without masks.
+
 Easy setup and deployment.
